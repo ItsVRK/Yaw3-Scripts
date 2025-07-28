@@ -13,8 +13,11 @@ These scripts assume that SteamVR and Virtual Desktop are installed to your C dr
 I have created shortcuts on my desktop for the following:
 
 - Yaw 3 Startup > Yaw 3 Startup.bat
+  - Sets OpenXR layer to SteamVR, launches Game Link and Infuse VR
 - Elite Dangerous > Elite Startup Script.bat
+  - Sets OpenXR layer to SteamVR, launches Voice Attack, EDCopilot, Game Link, Infuse VR, and Elite Dangerous
 - X-Plane > X-Plane Startup Script.bat
+  - Sets OpenXR layer to SteamVR, launches Game Link and Infuse VR, and XPlane 12
 - Virtual Desktop > VD Streamer Startup.bat
   - Resets SteamVR's OpenXR layer to VDXR and then opens Virtual Desktop
 
