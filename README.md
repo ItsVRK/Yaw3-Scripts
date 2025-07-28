@@ -22,5 +22,6 @@ I have created shortcuts on my desktop for the following:
 There are icons in the repository for each of these, to set the icon on your Desktop shortcut right click on the icon and select `Properties`, then from the `Shortcut` tab you can click the [Change Icon...] button and browse to the icon.
 
 ## Support
-Patreon: https://www.patreon.com/ItsVRK
-Donate via Paypal: https://paypal.me/VRKforReal
+
+- Patreon: https://www.patreon.com/ItsVRK
+- Donate via Paypal: https://paypal.me/VRKforReal
