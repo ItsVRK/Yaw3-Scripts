@@ -1,5 +1,5 @@
-# Yaw3-Scripts
-Startup scripts that I use when I want to use the Yaw 3
+# YawVR-Scripts
+Startup scripts that I use when I want to use the Yaw 3, will work with any YawVR simulator.
 
 ## Assumptions
 
