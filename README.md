@@ -21,7 +21,11 @@ I have created shortcuts on my desktop for the following:
 - Virtual Desktop > VD Streamer Startup.bat
   - Resets SteamVR's OpenXR layer to VDXR and then opens Virtual Desktop
 
-## Icons
+## Run shortcuts as administrator
+
+Because these scripts need to make registry edits to change the active OpenXR layer they need to also be run as administrator, to do this right click on the shortcut icon and select `Properties`, then from the `Shortcut` tab you can click the [Advanced...] button and check `Run as administrator`.
+
+## Pretty Icons
 There are icons in the repository for each of these, to set the icon on your Desktop shortcut right click on the icon and select `Properties`, then from the `Shortcut` tab you can click the [Change Icon...] button and browse to the icon.
 
 ## Support
